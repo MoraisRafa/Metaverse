@@ -10,7 +10,8 @@
 body {
     font-size: 100%;
     background: #111111;
-    width: 1309px;    
+    width: 1309px;
+    margin: 0 auto;    
 }
 
 .header {
